@@ -25,30 +25,22 @@ To achieve these objectives, this project involves:
 - Insight 3: [Description]
 
 ## Installation
-Instructions on setting up the project environment:
-```
-[Include steps for environment setup, library installation, etc.]
-```
+
+
 
 ## Usage
-How to run the models and reproduce the results:
-```
-[Include command-line instructions or script execution steps]
-```
+
 
 ## Data
-Brief description of the datasets used (without violating any confidentiality agreements):
+Brief description of the datasets used 
 - Dataset 1: [Description]
 - Dataset 2: [Description]
 
 ## Results
-- Include a summary of the results or a link to the report file.
+
 
 ## Contributing
-Guidelines for contributing to the project (if applicable):
-```
-[Include instructions for contributing, like how to submit pull requests, report bugs, etc.]
-```
+
 
 ## License
-Specify the project's license here (if applicable).
+
