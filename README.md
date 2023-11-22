@@ -27,10 +27,10 @@ To achieve these objectives, this project involves:
 ## Installation
 To run this project, you will need Python installed on your system. Follow these steps:
 
-Clone the GitHub repository:
-Navigate to the project directory.
-Install the required dependencies:
-Open the Jupyter notebook:
+- Clone the GitHub repository:
+- Navigate to the project directory.
+- Install the required dependencies:
+- Open the Jupyter notebook:
 
 
 ## Usage
