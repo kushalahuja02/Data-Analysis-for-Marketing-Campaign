@@ -40,7 +40,10 @@ Brief description of the datasets used
 
 
 ## Contributing
-
+Contributions to this project are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
 ## License
+This project is available under the MIT License.
 
+## Contact
+For any queries or discussions regarding this project, feel free to contact me at ahuja.kushal2@gmail.com
