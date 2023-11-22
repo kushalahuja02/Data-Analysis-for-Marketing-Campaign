@@ -25,11 +25,17 @@ To achieve these objectives, this project involves:
 - Insight 3: [Description]
 
 ## Installation
+To run this project, you will need Python installed on your system. Follow these steps:
 
+Clone the GitHub repository:
+Navigate to the project directory.
+Install the required dependencies:
+Open the Jupyter notebook:
 
 
 ## Usage
 
+After opening the notebook, you can run each cell to see the analysis performed on the Netflix dataset. The notebook is designed to guide you through the analysis step by step.
 
 ## Data
 Brief description of the datasets used 
